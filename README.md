@@ -1,5 +1,6 @@
-##Картиночка
+## Мили картиночка с котиком
 <img width="100%" height="751" alt="100%" src="https://github.com/user-attachments/assets/fbbdfece-1163-48f7-9156-3d871ba48eed" />
+
 
 
 
