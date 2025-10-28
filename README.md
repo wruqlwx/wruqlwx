@@ -1,4 +1,5 @@
-##Картиночка <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e609086d-10af-4744-acfc-bdeacb8a6bfb" />
+##Картиночка 
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/e609086d-10af-4744-acfc-bdeacb8a6bfb" />
 
 
 <!--
