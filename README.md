@@ -1,4 +1,5 @@
-##Картиночка(https://i.pinimg.com/736x/d6/e6/ec/d6e6ec9cec3b91fad25fd328007d92c5.jpg)
+##Картиночка <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e609086d-10af-4744-acfc-bdeacb8a6bfb" />
+
 
 <!--
 **wruqlwx/wruqlwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
